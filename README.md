@@ -1,2 +1,2 @@
-# php-blog
-Simple PHP OOP blog based on mvc
+# php-zadachnik
+Simple PHP OOP zadachnik based on mvc
